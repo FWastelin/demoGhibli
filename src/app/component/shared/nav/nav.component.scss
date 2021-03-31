@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  width: 100%;
+  background-color: greenyellow;
+  color: rgb(5, 27, 5);
+  .navbar-nav {
+    a:hover {
+      color: white;
+    }
+  }
+}
